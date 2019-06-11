@@ -1,0 +1,44 @@
+void angry()
+{
+  display.clearDisplay();
+  display.drawBitmap(0,0,angry01,128,32,WHITE);
+  display.display();  
+  display.clearDisplay();
+  display.drawBitmap(0,0,angry02,128,32,WHITE);
+  display.display();  
+  display.clearDisplay();
+  display.drawBitmap(0,0,angry03,128,32,WHITE);
+  display.display();  
+  display.clearDisplay();
+  display.drawBitmap(0,0,angry04,128,32,WHITE);
+  display.display();  
+  display.clearDisplay();
+  display.drawBitmap(0,0,angry05,128,32,WHITE);
+  display.display();  
+  display.clearDisplay();
+  display.drawBitmap(0,0,angry06,128,32,WHITE);
+  display.display();  
+  display.clearDisplay();
+  display.drawBitmap(0,0,angry07,128,32,WHITE);
+  display.display();  
+  display.clearDisplay();
+  display.drawBitmap(0,0,angry08,128,32,WHITE);
+  display.display();  
+  display.clearDisplay();
+  display.drawBitmap(0,0,angry09,128,32,WHITE);
+  display.display();  
+  display.clearDisplay();
+  display.drawBitmap(0,0,angry10,128,32,WHITE);
+  display.display();
+  display.clearDisplay();
+  display.drawBitmap(0,0,angry11,128,32,WHITE);
+  display.display();  
+  display.clearDisplay();
+  display.drawBitmap(0,0,angry12,128,32,WHITE);
+  display.display();  
+  display.clearDisplay();
+  display.drawBitmap(0,0,angry13,128,32,WHITE);
+  display.display();
+  
+}
+
